@@ -1,4 +1,4 @@
 GitBasicTraining
 ================
 
-Git Basic Training
+Git Basic Training for IPP
