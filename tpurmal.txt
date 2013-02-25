@@ -1,0 +1,6 @@
+This is my text
+This is my text too
+Three lines of text
+
+These lines were added after the Stage update
+This is another line added after Stage
