@@ -1,0 +1,2 @@
+Hello Git!
+I changed this file on stage!
