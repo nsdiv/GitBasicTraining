@@ -1,0 +1,3 @@
+Hello Git!
+I changed this file on stage!
+I changed this file before pushing it!
