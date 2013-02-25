@@ -2,5 +2,7 @@ This is my text
 This is my text too
 Three lines of text
 
+Added lines inbetween the first and second sections
+
 These lines were added after the Stage update
 This is another line added after Stage
