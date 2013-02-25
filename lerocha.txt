@@ -4,7 +4,3 @@ HAHAHAI changed this file on stage!
 I changed this file before pushing it!
 
 Hola Git!
-
-I changed this file on stage!
-I changed this file before pushing it!
-June's change
