@@ -1,0 +1,12 @@
+Feature 3 version
+
+Hello Git!
+HAHAHAI changed this file on stage!
+I changed this file before pushing it!
+
+Hola Git!
+
+I changed this coffee file on stage!
+I changed this donut file before pushing it!
+June's change
+Hello Ipp
