@@ -1,1 +1,1 @@
-My first git training
+My first git training is now in advanced mode
