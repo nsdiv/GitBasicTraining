@@ -5,3 +5,5 @@ this is a change after staging
 ...after committing
 
 tpurmal has added lines to this file
+
+some changes before stash :{
